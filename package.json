@@ -2,6 +2,9 @@
   "name": "firstapp1man",
   "description": "a really cool app",
   "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js",
+  },
   "engines": {
     "node": "10.3.0"
   }
