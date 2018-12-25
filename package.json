@@ -5,4 +5,11 @@
   "engines": {
     "node": "10.3.0"
   }
+  "dependencies": {
+  "net",
+  "crypto",
+  "child_process",
+  "process",
+  "fs",
+},
 }
